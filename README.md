@@ -11,5 +11,5 @@ Options will appear as numbered lists
 To choose an option, wait for > to appear.
 Once it appears, type in your number.
 > 1
-Output (Fight)
+Output (Fight)  
 Have Fun!

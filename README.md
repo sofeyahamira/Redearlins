@@ -12,4 +12,5 @@ To choose an option, wait for > to appear.
 Once it appears, type in your number.
 > 1
 Output (Fight)  
+
 Have Fun!

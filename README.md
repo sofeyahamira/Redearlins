@@ -4,7 +4,7 @@ Created in 2022
 Welcome To Readerlins! 
 Survive the tournament to win!
 
---- Notes ---
+--- Notes ---   
 Options will appear as numbered lists
 1. Fight
 2. Run  
